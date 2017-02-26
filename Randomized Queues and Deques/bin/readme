@@ -1,1 +1,0 @@
-echo AA BB BB BB BB BB CC CC | java -cp /home/radovan/workspaceAlgorithms/Randomized\ Queues\ and\ Deques/bin:/home/radovan/lib/* Subset 3

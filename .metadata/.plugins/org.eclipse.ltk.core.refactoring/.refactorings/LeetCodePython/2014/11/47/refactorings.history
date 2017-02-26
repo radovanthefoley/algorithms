@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;LeetCodePython/find-minimum-in-rotated-sorted-arrayI&apos; to &apos;find-minimum-in-rotated-sorted-array&apos;" description="Rename resource &apos;find-minimum-in-rotated-sorted-arrayI&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="find-minimum-in-rotated-sorted-arrayI" name="find-minimum-in-rotated-sorted-array" stamp="1416155573698" updateReferences="true"/>
-</session>

@@ -1,5 +1,0 @@
-java -cp /home/radovan/workspaceAlgorithms/Percolation/bin:/home/radovan/lib/* PercolationVisualizer pathToTXT
-
-java -cp /home/radovan/workspaceAlgorithms/Percolation/bin:/home/radovan/lib/* InteractivePercolationVisualizer
-
-java -cp /home/radovan/workspaceAlgorithms/Percolation/bin:/home/radovan/lib/* PercolationStats N T

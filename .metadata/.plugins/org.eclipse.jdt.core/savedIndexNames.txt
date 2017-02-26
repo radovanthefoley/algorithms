@@ -1,8 +1,0 @@
-INDEX VERSION 1.127+/Users/Rado/Dropbox/workspaceAlgorithms/.metadata/.plugins/org.eclipse.jdt.core
-3531157588.index
-4208296615.index
-547571572.index
-524126782.index
-677361136.index
-3203757408.index
-266645490.index

@@ -1,1 +1,0 @@
-java -Xmx1600m -cp /home/radovan/workspaceAlgorithms/8puzzle/bin:/home/radovan/lib/* PuzzleChecker /windows/Education/Coursera/Algorithms_I/8-Puzzle/test_data/*.txt
