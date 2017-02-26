@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;NextPermutation.java&apos; to &apos;NextPermutation.java&apos;&#x0A;- Original project: &apos;LeetCode&apos;&#x0A;- Destination element: &apos;NextPermutation.java&apos;&#x0A;- Original element: &apos;NextPermutation.java&apos;" description="Copy compilation unit" destination="/src&lt;{NextPermutation.java" element1="/src&lt;{NextPermutation.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1459621819420" units="1" version="1.0"/>
+</session>

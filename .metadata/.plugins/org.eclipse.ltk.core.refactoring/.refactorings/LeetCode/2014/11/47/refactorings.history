@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;numberOfPoints&apos; from expression &apos;mapOfLines.get(line)&apos;&#x0A;- Original project: &apos;LeetCode&apos;&#x0A;- Variable name: &apos;numberOfPoints&apos;&#x0A;- Destination method: &apos;Solution.maxPoints()&apos;&#x0A;- Variable expression: &apos;mapOfLines.get(line)&apos;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;numberOfPoints&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;{MaxPointsOnALine.java" name="numberOfPoints" replace="true" selection="870 20" stamp="1416096169457" version="1.0"/>
+</session>

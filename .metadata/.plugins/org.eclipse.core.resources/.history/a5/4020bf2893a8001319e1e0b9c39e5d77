@@ -1,0 +1,33 @@
+class LinkedList {
+    Node head;
+    
+    void addNode(int data) {
+        if(head == null) {
+            head = new Node(data);
+        } else {
+            Node next = head.next;
+            while (next != null) {
+                next = next.next;
+            }
+            next = new Node(data);
+        }
+    }
+    
+    @Override
+    public String toString() {
+        if(head == null) return "EMPTY";
+        String result = "" + head.data;
+        
+    }
+    
+    private class Node {
+        int data;
+        Node next;
+        
+        Node(int data) {
+            this.data = data;
+        }
+    }
+    
+    
+}
